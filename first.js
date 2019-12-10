@@ -1,2 +1,3 @@
 Populate the welcome text
-$("#welcome").text("Hello Customer");
+var name = "Hello Customer";
+$("#welcome").text
